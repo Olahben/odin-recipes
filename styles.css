@@ -31,4 +31,13 @@ li {
     display: inline-block;
     font-size: 16px;
     }
+h3 {
+    font-weight: 800;
+    color: rgb(14, 77, 214);
+}
+p {
+    font-size: 18px;
+    font-weight: 900;
+    background-color: rgb(228, 247, 247);
+}
 
