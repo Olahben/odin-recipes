@@ -17,13 +17,13 @@
 .background {
     background-color: papayawhip;
 }
-.img {
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 
-    height: 550px;
+    height: 700px;
 }
 li {
     list-style: none;
